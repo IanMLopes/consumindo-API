@@ -5,6 +5,6 @@
 <h3>Executar</h3>
 <p>clonar o projeto, na pasta do projeto executa yarn install para instalar as dependências. yarn start para rodar o projeto</p>
 
-<img src="img/img01.png" width="100%" height="50%" >
-<img src="img/img02.png" width="100%" height="50%" >
+<img src="img/bandicam 2020-05-24 05-37-05-207.png" width="100%" height="50%" >
+<img src="img/bandicam 2020-05-24 05-38-29-224.png" width="100%" height="50%" >
 
