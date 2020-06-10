@@ -1,4 +1,4 @@
-<h2>Consumindo API con ReactJs</h2>
+<h2>Consumindo API com ReactJs</h2>
 
 <p> Consumo básico de uma api com reactjs, mostrando tecnologias  e seus detalhes</p>
 
